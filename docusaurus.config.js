@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'org-developer', // Usually your GitHub org/user name.
+  projectName: 'docs site', // Usually your repo name.
 
   presets: [
     [
@@ -75,6 +75,10 @@ const config = {
                 to: '/docs/cs-intro',
               },
               {
+                label: '언리얼4',
+                to: '/docs/ue4-intro',
+              },
+              {
                 label: '개발환경',
                 to: '/docs/setup-intro',
               },
@@ -85,7 +89,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/org-developer',
+                href: 'https://github.com/org-developer/dev-docs',
               },
             ],
           },
