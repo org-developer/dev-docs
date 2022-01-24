@@ -5,6 +5,9 @@
 - 문서 사이트를 쉽게 만들 수 있는 도구
 - [Docusaurus Site](https://docusaurus.io/ko)
 
+### github pages url
+- https://org-developer.github.io/dev-docs
+
 ### 문서 추가 방법
 
 규칙
