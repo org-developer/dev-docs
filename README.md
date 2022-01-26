@@ -50,7 +50,7 @@ const sidebars = {
   ],
 
   setup: [
-    'setup-intro', // cs-setup.md 파일의 id
+    'setup-intro', // setup-intro.md 파일의 id
     {
       type: 'category', // 카테고리
       label: '개발환경', // 카테고리 이름
