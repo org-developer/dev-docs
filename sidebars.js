@@ -28,6 +28,7 @@ const sidebars = {
         'cs/network',
         'cs/http',
         'cs/https',
+        'cs/database',
       ]
     },
   ],
