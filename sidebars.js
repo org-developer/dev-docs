@@ -44,7 +44,9 @@ const sidebars = {
       },
       collapsed: false,
       items: [
+        'setup/basic',
         'setup/mysql',
+        'setup/jdk',
       ]
     },
   ],
